@@ -1,0 +1,45 @@
+Restaurant; adresse; coordonee; specialite
+
+
+Edern; 6, rue Arsene Houssaye - Paris 8eme;(x=1.5, y=44.8); {Cuisine gastronomique};
+
+La Farnesina; 9, rue Boissy d'Anglas - Paris 8eme;(x=70.5, y=74.12578); {Cuisine italienne};
+
+41 Penthievre; 41 Penthievre 41, rue de Penthievre - Paris 8eme; (x=40.5, y=77.12578); {Cuisine traditionnelle française};
+
+6 New York; 6, avenue de New York - Paris 16eme; (x=12.5, y=74.12578); {Cuisine gastronomique};
+
+African Lounge; 20 bis, rue Jean Giraudoux - Paris 16eme; (x=18.5, y=7.578); {Cuisine africaine};
+
+Le 122; 122, rue de Grenelle - Paris 7eme; (x=48.8571, y=2.319250000000011); {Cuisine gastronomique};
+
+Le 404;69, rue des Gravilliers - Paris 3eme;(x=48.8645, y=2.3542); {Cuisine marocaine};
+
+Le 41 Pasteur; 41, boulevard Pasteur - Paris 15eme; (x=48.8426, y=2.3132699999999886); {Bistrot}; 
+
+Belle Armee; 3, avenue de la Grande Armee - Paris 16eme;(x=2.5, y=12.578); {Brasserie};
+
+Benkay; 61, quai de Grenelle - Paris 15eme;(x=142.5, y=7.1); {Cuisine japonaise};
+
+Agape; 51, rue Jouffroy-d'Abbans - Paris 17eme;(x=128.5, y=200.178); {Haute cuisine française};
+
+Un Air de Famille; 118, rue des Dames - Paris 17eme; (x=1.5, y=300.12578); {Bistrot};
+
+Le Bistro Mavrommatis Passy; 70, avenue Paul Doumer - Paris 16eme;(x=10.5, y=10.8); {Cuisine grecque};
+
+Le Caroubier; 82, boulevard Lefebvre - Paris 15eme;(x=125, y=75.78); {Cuisine marocaine};
+
+Al Dente; 38, rue de Varenne - Paris 7eme; (x=10.5, y=70.18); {Cuisine italienne};
+
+Bey Steakhouse; 7-9, rue Waldeck-Rousseau - Paris 17eme;(x=12.5, y=12.578); {Viande, rotisserie};
+
+Casa Luca; 82, avenue Marceau - Paris 8eme;(x=12.5, y=74.12578); {Cuisine italienne};
+
+Gotti; 48, rue de Prony - Paris 17eme; (x=7.5, y=4.12578); {Cuisine italienne};
+
+Le Timgad; 21, rue Brunel - Paris 17eme;(x=75.89, y=78.52); {Cuisine marocaine};
+
+La Famiglia; 2, rue Waldeck-Rousseau - Paris 17eme;(x=42.5, y=24.19); {Cuisine italienne};
+
+Unico; 15, rue Paul Bert - Paris 11eme;(x=17.8, y=60.18); {Viande, rotisserie};
+Good Chill; 21 rue port � bateaux; (x=12.34,y=34.5); {cuite};
