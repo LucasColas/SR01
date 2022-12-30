@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <sys/types.h>
+#include <sys/wait.h>
 
 int main() {
 int tab1[10]={11,22,33,44,55,66,77,88,99,1000};
