@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void my_system(char *path, char **argv) {
-  
-}
+
 
 int main() {
   printf("/bin/ls -la :\n");
