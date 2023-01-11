@@ -1,0 +1,17 @@
+#Ex1 :
+echo "Bonjour les amis" | grep [[:punct:]]
+
+echo "Test." | grep [[:punct:]] | grep [[:space:]] //AND
+cat test.txt | grep [[:punct:]] | grep [[:space:]]
+
+cat test.txt | grep [[:punct:][:space:]]
+
+#Ex2 :
+cat tel.txt | grep -E "06[0-9]{8}"
+cat tel.txt | grep -E "06[[:digit:]]{8}"
+
+cat tel.txt | grep -E "^0[67][[:digit:]]{8}$"
+
+grep -E "0[67]([[:punct:]]?[[:digit]]){8}$" tel.txt
+
+#Ex3 : 
